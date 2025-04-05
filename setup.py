@@ -8,5 +8,6 @@ setup(
     url='https://github.com/mfvhidalgo/test_module_1',
     author='',
     author_email='',
-    description=''
+    description='',
+    test_suite='tests',
 )
