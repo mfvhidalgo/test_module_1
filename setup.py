@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+print(find_packages(where='src'))
+"""
 setup(
     name='func1_suite',
     version='0.1',
@@ -13,3 +15,4 @@ setup(
     description='',
     test_suite='tests',
 )
+"""

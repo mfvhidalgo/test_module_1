@@ -1,7 +1,7 @@
 # python -m tests.Testfunc1
 import unittest
 
-from src.func1 import func1
+from src.mfvhfunc import func1
 
 class Testfunc1(unittest.TestCase):
 
