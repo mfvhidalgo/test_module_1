@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='func1_suite',
     version='0.1',
-    py_modules=['mfvhfunc']
+    py_modules=['mfvhfunc'],
     #packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[],
